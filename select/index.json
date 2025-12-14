@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "When It Rains It Pours (Official Video)",
+  "base_artist": "Luke Combs",
+  "createdAt": "2025-12-14T14:36:17.824261Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "When It Rains It Pours",
+      "artist": "Grief & Bliss",
+      "has_synced": false,
+      "path": "select/01_When_It_Rains_It_Pours_Grief_&_Bliss.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "When It Rains It Pours",
+      "artist": "Luke Combs",
+      "has_synced": true,
+      "path": "select/02_When_It_Rains_It_Pours_Luke_Combs.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "When It Rains It Pours",
+      "artist": "Thelma Plum",
+      "has_synced": true,
+      "path": "select/03_When_It_Rains_It_Pours_Thelma_Plum.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "When It Rains, It Pours",
+      "artist": "Clavish",
+      "has_synced": true,
+      "path": "select/04_When_It_Rains,_It_Pours_Clavish.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "When It Rains It Pours",
+      "artist": "50 Cent",
+      "has_synced": true,
+      "path": "select/05_When_It_Rains_It_Pours_50_Cent.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "When It Rains It Pours",
+      "artist": "Britney Christian",
+      "has_synced": true,
+      "path": "select/06_When_It_Rains_It_Pours_Britney_Christian.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "When It Rains It Pours",
+      "artist": "Luke Combs",
+      "has_synced": true,
+      "path": "select/07_When_It_Rains_It_Pours_Luke_Combs.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "When It Rains It Pours",
+      "artist": "Lovebugs",
+      "has_synced": false,
+      "path": "select/08_When_It_Rains_It_Pours_Lovebugs.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "When It Rains It Pours",
+      "artist": "Exodus",
+      "has_synced": true,
+      "path": "select/09_When_It_Rains_It_Pours_Exodus.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "When It Rains It Pours",
+      "artist": "Kazzer",
+      "has_synced": true,
+      "path": "select/10_When_It_Rains_It_Pours_Kazzer.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "When It Rains It Pours",
+      "artist": "50 Cent",
+      "has_synced": true,
+      "path": "select/11_When_It_Rains_It_Pours_50_Cent.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "When It Rains It Pours",
+      "artist": "Lil Tracy",
+      "has_synced": false,
+      "path": "select/12_When_It_Rains_It_Pours_Lil_Tracy.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "When It Rains It Pours",
+      "artist": "Luke Combs",
+      "has_synced": true,
+      "path": "select/13_When_It_Rains_It_Pours_Luke_Combs.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "When It Rains It Pours",
+      "artist": "50 Cent",
+      "has_synced": true,
+      "path": "select/14_When_It_Rains_It_Pours_50_Cent.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "When It Rains It Pours",
+      "artist": "50 Cent",
+      "has_synced": true,
+      "path": "select/15_When_It_Rains_It_Pours_50_Cent.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "When It Rains It Pours",
+      "artist": "Elvis Presley",
+      "has_synced": true,
+      "path": "select/16_When_It_Rains_It_Pours_Elvis_Presley.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "When It Rains It Pours",
+      "artist": "Luke Combs",
+      "has_synced": false,
+      "path": "select/pl_01_When_It_Rains_It_Pours_Luke_Combs.txt"
+    }
+  ]
+}
